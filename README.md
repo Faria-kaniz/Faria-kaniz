@@ -4,6 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Software Development<br>🌱 I’m currently learning Next JS <br>💬 Ask me about ReactJS, HTML, CSS, Bootstrap, Tailwind, Express JS
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaniz-faria-rakhi) 
