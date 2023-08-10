@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from Bangloadesh</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Software Development<br>🌱 I’m currently learning Next JS <br>💬 Ask me about ReactJS, HTML, CSS, Bootstrap, Tailwind, Express JS
+🔭 I’m currently working on Software Development<br>🌱 I’m currently learning Next JS <br>💬 Ask me about ReactJS, HTML, CSS, Bootstrap, Tailwind, Express JS, Php, Laravel
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
