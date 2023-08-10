@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaniz Faria</h1>
 <h3 align="center">A passionate Software Developer from Bangloadesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faria-kaniz&label=Profile%20views&color=0e75b6&style=flat" alt="faria-kaniz" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faria-kaniz" alt="faria-kaniz" /></a> </p>
 
 - 🔭 I’m currently working on **React JS**
