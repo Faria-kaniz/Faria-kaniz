@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaniz Faria</h1>
-<h3 align="center">A passionate Software Developer from Bangloadesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Software Development<br>🌱 I’m currently learning Next JS <br>💬 Ask me about ReactJS, HTML, CSS, Bootstrap, Tailwind, Express JS, Php, Laravel
+🔭 I’m currently working on Software Development<br>🌱 I’m currently learning Next JS <br>💬 Ask me about JavaScript, ReactJS, HTML, CSS, Bootstrap, Tailwind, Express JS, Php, Laravel
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaniz-faria-rakhi) 
